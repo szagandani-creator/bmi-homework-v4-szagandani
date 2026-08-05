@@ -33,5 +33,6 @@ public class CalculateBmi {
                 : "Elhízott");
 
         System.out.println("Kategória: " + category);
+        scanner.close();
     }
 }
